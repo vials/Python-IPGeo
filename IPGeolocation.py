@@ -3,8 +3,11 @@ import subprocess as sp
 from colorama import Fore, init
 init()
 
-#Subscribe To https://www.YouTube.com/CallMeCOM
-#If you reference any of this coding, leave CREDITS!
+'''
+Subscribe To https://www.YouTube.com/CallMeCOM
+Ensure you leave credits if you wish you use this script. Credits are nice and any dev likes that!
+Enjoy.
+'''
 
 def main():
 	clear()
